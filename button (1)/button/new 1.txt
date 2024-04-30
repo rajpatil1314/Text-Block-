@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+.box1
+{
+    border:2px solid black;
+}
+</style>
+</head>
+<body>
+
+<a class="box1" href="">neon</a>
+</body>
+</html>
